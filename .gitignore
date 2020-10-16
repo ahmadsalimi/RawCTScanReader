@@ -3,5 +3,6 @@
 *.mhd
 *.raw
 *.nii
+*.nrrd
 
 iftALTIS
