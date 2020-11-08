@@ -4,5 +4,9 @@
 *.raw
 *.nii
 *.nrrd
+*.dcm
 
+LIDC-IDRI
+png_sample
+__pycache__
 iftALTIS
